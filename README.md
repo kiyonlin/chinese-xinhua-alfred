@@ -6,13 +6,13 @@
 
 ## 查询成语
 
-`cy 兴高采烈`
+`cy 兴高采烈`  
 ![兴高采烈](imgs/cy_xgcl.png)
-`cy xxxx`
+`cy xxxx`  
 ![xxxx](imgs/cy_xxxx.png)
 ## 查询歇后语
 
-`xhy 王婆`
+`xhy 王婆`  
 ![王婆](imgs/xhy_wp.png)
 # 日志
 
