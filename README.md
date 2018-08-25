@@ -17,6 +17,7 @@
 # 日志
 
 ## 1.0.0
-
 -   查询成语
 -   查询歇后语
+
+[下载](https://github.com/kiyonlin/chinese-xinhua-alfred/releases/download/V1.0.0/Chinese-xinhua.alfredworkflow)
